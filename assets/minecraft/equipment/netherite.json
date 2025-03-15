@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "v1:v1",
+        "use_player_texture": false
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "v1:v1"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "v1:v1"
+      }
+    ]
+  }
+}
