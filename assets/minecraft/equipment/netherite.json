@@ -8,12 +8,12 @@
     ],
     "humanoid": [
       {
-        "texture": "v1:v1"
+        "texture": "netherite"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "v1:v1"
+        "texture": "netherite"
       }
     ]
   }
