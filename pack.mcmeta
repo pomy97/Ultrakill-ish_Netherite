@@ -1,6 +1,21 @@
 {
   "pack": {
-    "pack_format": 46,
-    "description": "by pomy97"
+    "description": "ULTRAKILL-ish Armor by pomy97",
+    "pack_format": 42,
+    "supported_formats": {
+      "min_inclusive": 42,
+      "max_inclusive": 55
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "21_2_overlay",
+        "formats": {
+          "min_inclusive": 42,
+          "max_inclusive": 43
+        }
+      }
+    ]
   }
 }

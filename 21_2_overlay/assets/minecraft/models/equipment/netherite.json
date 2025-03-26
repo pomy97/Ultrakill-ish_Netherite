@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "v1:v1",
+        "use_player_texture": false
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "netherite"
+      }
+    ]
+  }
+}
