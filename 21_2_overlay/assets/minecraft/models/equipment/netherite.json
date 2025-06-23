@@ -2,7 +2,7 @@
   "layers": {
     "wings": [
       {
-        "texture": "v1:v1",
+        "texture": "v1:netherite_wings",
         "use_player_texture": false
       }
     ],
